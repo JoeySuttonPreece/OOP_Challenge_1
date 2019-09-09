@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeLib", "ShapeLib\ShapeLib.csproj", "{6711D050-C399-4202-B235-BE59E003979A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeTest", "ShapeTest\ShapeTest.csproj", "{FBF833F2-DA1D-4AA6-AEA7-0842229756F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeApp", "ShapeApp\ShapeApp.csproj", "{36EBA613-6A46-4ADC-A8CC-8A1C9C74C2DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6711D050-C399-4202-B235-BE59E003979A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6711D050-C399-4202-B235-BE59E003979A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6711D050-C399-4202-B235-BE59E003979A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6711D050-C399-4202-B235-BE59E003979A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF833F2-DA1D-4AA6-AEA7-0842229756F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF833F2-DA1D-4AA6-AEA7-0842229756F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF833F2-DA1D-4AA6-AEA7-0842229756F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF833F2-DA1D-4AA6-AEA7-0842229756F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36EBA613-6A46-4ADC-A8CC-8A1C9C74C2DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36EBA613-6A46-4ADC-A8CC-8A1C9C74C2DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36EBA613-6A46-4ADC-A8CC-8A1C9C74C2DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36EBA613-6A46-4ADC-A8CC-8A1C9C74C2DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00BFAD57-83C2-4B33-BB9F-4495C1DB8F95}
+	EndGlobalSection
+EndGlobal

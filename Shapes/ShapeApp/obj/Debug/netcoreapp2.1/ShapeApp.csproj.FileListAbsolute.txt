@@ -1,0 +1,28 @@
+C:\Users\joeys\OneDrive - Swinburne University\Sem2\OOP\Challenge1\Shapes\ShapeApp\bin\Debug\netcoreapp2.1\ShapeApp.deps.json
+C:\Users\joeys\OneDrive - Swinburne University\Sem2\OOP\Challenge1\Shapes\ShapeApp\bin\Debug\netcoreapp2.1\ShapeApp.runtimeconfig.json
+C:\Users\joeys\OneDrive - Swinburne University\Sem2\OOP\Challenge1\Shapes\ShapeApp\bin\Debug\netcoreapp2.1\ShapeApp.runtimeconfig.dev.json
+C:\Users\joeys\OneDrive - Swinburne University\Sem2\OOP\Challenge1\Shapes\ShapeApp\bin\Debug\netcoreapp2.1\ShapeApp.dll
+C:\Users\joeys\OneDrive - Swinburne University\Sem2\OOP\Challenge1\Shapes\ShapeApp\bin\Debug\netcoreapp2.1\ShapeApp.pdb
+C:\Users\joeys\OneDrive - Swinburne University\Sem2\OOP\Challenge1\Shapes\ShapeApp\bin\Debug\netcoreapp2.1\ShapeLib.dll
+C:\Users\joeys\OneDrive - Swinburne University\Sem2\OOP\Challenge1\Shapes\ShapeApp\bin\Debug\netcoreapp2.1\ShapeLib.pdb
+C:\Users\joeys\OneDrive - Swinburne University\Sem2\OOP\Challenge1\Shapes\ShapeApp\obj\Debug\netcoreapp2.1\ShapeApp.csprojAssemblyReference.cache
+C:\Users\joeys\OneDrive - Swinburne University\Sem2\OOP\Challenge1\Shapes\ShapeApp\obj\Debug\netcoreapp2.1\ShapeApp.csproj.CoreCompileInputs.cache
+C:\Users\joeys\OneDrive - Swinburne University\Sem2\OOP\Challenge1\Shapes\ShapeApp\obj\Debug\netcoreapp2.1\ShapeApp.AssemblyInfoInputs.cache
+C:\Users\joeys\OneDrive - Swinburne University\Sem2\OOP\Challenge1\Shapes\ShapeApp\obj\Debug\netcoreapp2.1\ShapeApp.AssemblyInfo.cs
+C:\Users\joeys\OneDrive - Swinburne University\Sem2\OOP\Challenge1\Shapes\ShapeApp\obj\Debug\netcoreapp2.1\ShapeApp.csproj.CopyComplete
+C:\Users\joeys\OneDrive - Swinburne University\Sem2\OOP\Challenge1\Shapes\ShapeApp\obj\Debug\netcoreapp2.1\ShapeApp.dll
+C:\Users\joeys\OneDrive - Swinburne University\Sem2\OOP\Challenge1\Shapes\ShapeApp\obj\Debug\netcoreapp2.1\ShapeApp.pdb
+C:\Joey\School\Repos\OOP\OOP_Challenge_1\Shapes\ShapeApp\bin\Debug\netcoreapp2.1\ShapeApp.deps.json
+C:\Joey\School\Repos\OOP\OOP_Challenge_1\Shapes\ShapeApp\bin\Debug\netcoreapp2.1\ShapeApp.runtimeconfig.json
+C:\Joey\School\Repos\OOP\OOP_Challenge_1\Shapes\ShapeApp\bin\Debug\netcoreapp2.1\ShapeApp.runtimeconfig.dev.json
+C:\Joey\School\Repos\OOP\OOP_Challenge_1\Shapes\ShapeApp\bin\Debug\netcoreapp2.1\ShapeApp.dll
+C:\Joey\School\Repos\OOP\OOP_Challenge_1\Shapes\ShapeApp\bin\Debug\netcoreapp2.1\ShapeApp.pdb
+C:\Joey\School\Repos\OOP\OOP_Challenge_1\Shapes\ShapeApp\bin\Debug\netcoreapp2.1\ShapeLib.dll
+C:\Joey\School\Repos\OOP\OOP_Challenge_1\Shapes\ShapeApp\bin\Debug\netcoreapp2.1\ShapeLib.pdb
+C:\Joey\School\Repos\OOP\OOP_Challenge_1\Shapes\ShapeApp\obj\Debug\netcoreapp2.1\ShapeApp.csprojAssemblyReference.cache
+C:\Joey\School\Repos\OOP\OOP_Challenge_1\Shapes\ShapeApp\obj\Debug\netcoreapp2.1\ShapeApp.csproj.CoreCompileInputs.cache
+C:\Joey\School\Repos\OOP\OOP_Challenge_1\Shapes\ShapeApp\obj\Debug\netcoreapp2.1\ShapeApp.AssemblyInfoInputs.cache
+C:\Joey\School\Repos\OOP\OOP_Challenge_1\Shapes\ShapeApp\obj\Debug\netcoreapp2.1\ShapeApp.AssemblyInfo.cs
+C:\Joey\School\Repos\OOP\OOP_Challenge_1\Shapes\ShapeApp\obj\Debug\netcoreapp2.1\ShapeApp.csproj.CopyComplete
+C:\Joey\School\Repos\OOP\OOP_Challenge_1\Shapes\ShapeApp\obj\Debug\netcoreapp2.1\ShapeApp.dll
+C:\Joey\School\Repos\OOP\OOP_Challenge_1\Shapes\ShapeApp\obj\Debug\netcoreapp2.1\ShapeApp.pdb
