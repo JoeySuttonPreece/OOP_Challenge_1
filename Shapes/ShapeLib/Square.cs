@@ -1,10 +1,10 @@
 ﻿namespace ShapeLib
 {
-    public class Square : Quadrilateral
+    public class Square : Quadrilateral, IShapeData
     {
-        public Square(string colour, int sideLength) : base(colour, sideLength, sideLength, sideLength, sideLength) { }
+        public Square(string colour, double sideLength) : base(colour, sideLength, sideLength, sideLength, sideLength) { }
 
-        public int GetArea()
+        public double GetArea()
         {
             return Side1Length * Side1Length;
         }

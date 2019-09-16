@@ -2,13 +2,13 @@
 
 namespace ShapeLib
 {
-    public class EquilateralTriangle : Triangle
+    public class EquilateralTriangle : Triangle, IShapeData
     {
-        public EquilateralTriangle(string colour, float sideLength) : base(colour, sideLength, sideLength, sideLength) { }
+        public EquilateralTriangle(string colour, double sideLength) : base(colour, sideLength, sideLength, sideLength) { }
 
-        public float GetArea()
+        public double GetArea()
         {
-            return (float)Math.Sqrt(3) * Side1Length * Side1Length / 4;
+            return Math.Sqrt(3) * Side1Length * Side1Length / 4;
         }
     }
 }

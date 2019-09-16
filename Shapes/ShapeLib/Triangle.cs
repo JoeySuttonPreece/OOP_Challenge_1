@@ -1,19 +1,19 @@
 ﻿namespace ShapeLib
 {
-    public class Triangle : Shape
+    public abstract class Triangle : Shape
     {
-        public float Side1Length;
-        public float Side2Length;
-        public float Side3Length;
+        public double Side1Length;
+        public double Side2Length;
+        public double Side3Length;
 
-        public Triangle(string colour, float side1Length, float side2Length, float side3Length) : base(colour)
+        public Triangle(string colour, double side1Length, double side2Length, double side3Length) : base(colour)
         {
             Side1Length = side1Length;
             Side2Length = side2Length;
             Side3Length = side3Length;
         }
 
-        public float GetPerimeter()
+        public double GetPerimeter()
         {
             return Side1Length + Side2Length + Side3Length;
         }

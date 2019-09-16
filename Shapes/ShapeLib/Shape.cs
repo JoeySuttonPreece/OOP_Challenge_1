@@ -1,6 +1,6 @@
 ﻿namespace ShapeLib
 {
-    public class Shape
+    public abstract class Shape
     {
         public string Colour;
 
